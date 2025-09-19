@@ -1,7 +1,7 @@
 <?php
 
 require("classes/estudiante.Class.php");
-$Estudiante + new Estudiante();
+$Estudiante = new Estudiante();
 
 $resultado = $Estudiante->obtenerEstudiantes();
 
